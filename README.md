@@ -1,4 +1,4 @@
-# About_Me
+# About Me
 A regularly Updated CV / Resume for my future employers <br>
 Aspiring Software Engineer, Newbie Coder, Amateur Powerlifter <br>
 Curious yet Committed, Adaptable yet Steadfast
